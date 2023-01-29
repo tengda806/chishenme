@@ -7,6 +7,6 @@
             }
         })
         $('#stop').click(function(){
-            alert('这么作？今天别吃了！')
+            alert('全世界最可爱的小姑娘，不要太挑！！！')
             $(this).hide();
         })
